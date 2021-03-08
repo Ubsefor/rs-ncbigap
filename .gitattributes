@@ -1,0 +1,2 @@
+NC_000001.11[[:space:]]Homo[[:space:]]sapiens[[:space:]]chromosome[[:space:]]1,[[:space:]]GRCh38.p13[[:space:]]Primary[[:space:]]Assembly.fasta filter=lfs diff=lfs merge=lfs -text
+NC_000015.10_Homo_sapiens_chromosome_15,GRCh38.p13_Primary_Assembly.fasta filter=lfs diff=lfs merge=lfs -text
