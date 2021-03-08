@@ -25,7 +25,7 @@ From the project's root directory:
 
 `<filepath>` – place a path to the file here, for the given examples you can just write the name of the file
 
-Note, that the program accepts only files, containing raw genetic code (see [example](NC_000001.11 Homo sapiens chromosome 1, GRCh38.p13 Primary Assembly.fasta) to get the idea), so if you download genomes from  [NCBI](https://www.ncbi.nlm.nih.gov), use FASTA format and remove the header message!
+Note, that the program accepts only files, containing raw genetic code (see [example](https://github.com/Ubsefor/rs-ncbigap/blob/master/NC_000001.11%20Homo%20sapiens%20chromosome%201%2C%20GRCh38.p13%20Primary%20Assembly.fasta) to get the idea), so if you download genomes from  [NCBI](https://www.ncbi.nlm.nih.gov), use FASTA format and remove the header message!
 
 # Testing:
 
