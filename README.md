@@ -11,6 +11,8 @@ Follow the official installation instructions to get it: [guide](https://www.rus
 
 You also need GCC or any other cc-compliant linker to build the project. I use GCC: [installation](https://gcc.gnu.org/install/)
 
+Unpack zip archives, containing genomes (you can use [unpacking script](unpack.sh) to do that, it requires `unzip` to be installed)
+
 On Unix-like systems with rust available: 
 `git clone https://github.com/Ubsefor/rs-ncbigap ; cd rs-ncbigap ; cargo build --release`
 
