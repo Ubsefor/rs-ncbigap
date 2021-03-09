@@ -9,6 +9,7 @@ You need Rust's Cargo to build the project.
 
 Follow the official installation instructions to get it: [guide](https://www.rust-lang.org/tools/install)
 
+(OPTIONAL) You also need to install git-lfs for ncbi-genomes to be pulled from the repo automatically. See the [wiki](https://github.com/git-lfs/git-lfs/wiki/Installation). If you do not wish to install git-lfs, you can simply download files directly from the github.
 
 On Unix-like systems with rust available: 
 `git clone https://github.com/Ubsefor/rs-ncbigap ; cd rs-ncbigap ; cargo build --release`
